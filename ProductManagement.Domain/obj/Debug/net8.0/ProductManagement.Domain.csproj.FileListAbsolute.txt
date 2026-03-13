@@ -1,0 +1,11 @@
+D:\Rewinding\ProductManagement.Domain\bin\Debug\net8.0\ProductManagement.Domain.deps.json
+D:\Rewinding\ProductManagement.Domain\bin\Debug\net8.0\ProductManagement.Domain.dll
+D:\Rewinding\ProductManagement.Domain\bin\Debug\net8.0\ProductManagement.Domain.pdb
+D:\Rewinding\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rewinding\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.AssemblyInfoInputs.cache
+D:\Rewinding\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.AssemblyInfo.cs
+D:\Rewinding\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Rewinding\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.dll
+D:\Rewinding\ProductManagement.Domain\obj\Debug\net8.0\refint\ProductManagement.Domain.dll
+D:\Rewinding\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.pdb
+D:\Rewinding\ProductManagement.Domain\obj\Debug\net8.0\ref\ProductManagement.Domain.dll
