@@ -9,3 +9,4 @@ D:\Rewinding\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.
 D:\Rewinding\ProductManagement.Domain\obj\Debug\net8.0\refint\ProductManagement.Domain.dll
 D:\Rewinding\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.pdb
 D:\Rewinding\ProductManagement.Domain\obj\Debug\net8.0\ref\ProductManagement.Domain.dll
+D:\Rewinding\ProductManagement.Domain\obj\Debug\net8.0\ProductManagement.Domain.sourcelink.json

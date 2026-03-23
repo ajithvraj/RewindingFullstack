@@ -13,3 +13,4 @@ D:\Rewinding\ProductManagement.Application\obj\Debug\net8.0\ProductManagement.Ap
 D:\Rewinding\ProductManagement.Application\obj\Debug\net8.0\refint\ProductManagement.Application.dll
 D:\Rewinding\ProductManagement.Application\obj\Debug\net8.0\ProductManagement.Application.pdb
 D:\Rewinding\ProductManagement.Application\obj\Debug\net8.0\ref\ProductManagement.Application.dll
+D:\Rewinding\ProductManagement.Application\obj\Debug\net8.0\ProductManagement.Application.sourcelink.json

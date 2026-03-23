@@ -1,51 +1,286 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Rewinding\\ProductManagement\\",
+  "WorkspaceRootPath": "D:\\Rewinding\\ProductManagement.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|d:\\rewinding\\productmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{90C95482-D4D9-4436-BD94-5F853EC5B6FA}|..\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj|d:\\rewinding\\productmanagement.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|d:\\rewinding\\productmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{659DCD1D-CAC6-465D-8AD1-BEF5AA98B7C1}|..\\ProductManagement.Application\\ProductManagement.Application.csproj|d:\\rewinding\\productmanagement.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90C95482-D4D9-4436-BD94-5F853EC5B6FA}|..\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj|d:\\rewinding\\productmanagement.infrastructure\\productmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|d:\\rewinding\\productmanagement.api\\controllers\\productmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|solutionrelative:controllers\\productmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|d:\\rewinding\\productmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659DCD1D-CAC6-465D-8AD1-BEF5AA98B7C1}|..\\ProductManagement.Application\\ProductManagement.Application.csproj|d:\\rewinding\\productmanagement.application\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659DCD1D-CAC6-465D-8AD1-BEF5AA98B7C1}|..\\ProductManagement.Application\\ProductManagement.Application.csproj|d:\\rewinding\\productmanagement.application\\intertfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|d:\\rewinding\\productmanagement.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{659DCD1D-CAC6-465D-8AD1-BEF5AA98B7C1}|..\\ProductManagement.Application\\ProductManagement.Application.csproj|d:\\rewinding\\productmanagement.application\\productmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|d:\\rewinding\\productmanagement\\productmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|solutionrelative:productmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{90C95482-D4D9-4436-BD94-5F853EC5B6FA}|..\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj|d:\\rewinding\\productmanagement.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90C95482-D4D9-4436-BD94-5F853EC5B6FA}|..\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj|d:\\rewinding\\productmanagement.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90C95482-D4D9-4436-BD94-5F853EC5B6FA}|..\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj|d:\\rewinding\\productmanagement.infrastructure\\persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{659DCD1D-CAC6-465D-8AD1-BEF5AA98B7C1}|..\\ProductManagement.Application\\ProductManagement.Application.csproj|d:\\rewinding\\productmanagement.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|d:\\rewinding\\productmanagement.api\\productmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|solutionrelative:productmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659DCD1D-CAC6-465D-8AD1-BEF5AA98B7C1}|..\\ProductManagement.Application\\ProductManagement.Application.csproj|d:\\rewinding\\productmanagement.application\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659DCD1D-CAC6-465D-8AD1-BEF5AA98B7C1}|..\\ProductManagement.Application\\ProductManagement.Application.csproj|d:\\rewinding\\productmanagement.application\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659DCD1D-CAC6-465D-8AD1-BEF5AA98B7C1}|..\\ProductManagement.Application\\ProductManagement.Application.csproj|d:\\rewinding\\productmanagement.application\\dtos\\productresponsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D91D6-0235-41A8-A7E2-899E7FE7092D}|..\\ProductManagement.Domain\\ProductManagement.Domain.csproj|d:\\rewinding\\productmanagement.domain\\enitity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D91D6-0235-41A8-A7E2-899E7FE7092D}|..\\ProductManagement.Domain\\ProductManagement.Domain.csproj|d:\\rewinding\\productmanagement.domain\\productmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C95482-D4D9-4436-BD94-5F853EC5B6FA}|..\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj|d:\\rewinding\\productmanagement.infrastructure\\productmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|d:\\rewinding\\productmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|d:\\rewinding\\productmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCEC9D38-95FD-4D5C-8D54-176D4D84E9A5}|ProductManagement.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E5D91D6-0235-41A8-A7E2-899E7FE7092D}|..\\ProductManagement.Domain\\ProductManagement.Domain.csproj|d:\\rewinding\\productmanagement.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C95482-D4D9-4436-BD94-5F853EC5B6FA}|..\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj|d:\\rewinding\\productmanagement.infrastructure\\migrations\\20260314101412_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 94,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 273,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManagementController.cs",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Api\\Controllers\\ProductManagementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductManagementController.cs",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Api\\Controllers\\ProductManagementController.cs",
+              "RelativeToolTip": "Controllers\\ProductManagementController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwF8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T15:43:19.327Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagement.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\ProductManagement.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAOcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:28:36.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Application\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagement.Application\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Application\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "..\\ProductManagement.Application\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:06:46.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagement.Infrastructure\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Infrastructure\\Repository\\ProductRepository.cs*",
+              "RelativeToolTip": "..\\ProductManagement.Infrastructure\\Repository\\ProductRepository.cs*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwDoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:18:17.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Application\\Intertfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagement.Application\\Intertfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Application\\Intertfaces\\IProductRepository.cs",
+              "RelativeToolTip": "..\\ProductManagement.Application\\Intertfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAawAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:12:47.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductResponsDto.cs",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Application\\DTOs\\ProductResponsDto.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagement.Application\\DTOs\\ProductResponsDto.cs",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Application\\DTOs\\ProductResponsDto.cs",
+              "RelativeToolTip": "..\\ProductManagement.Application\\DTOs\\ProductResponsDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:34:56.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Application\\DTOs\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagement.Application\\DTOs\\UpdateProductDto.cs",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Application\\DTOs\\UpdateProductDto.cs",
+              "RelativeToolTip": "..\\ProductManagement.Application\\DTOs\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:30:56.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Api\\MIddleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "MIddleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Api\\MIddleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "MIddleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T07:27:51.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Application\\DTOs\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagement.Application\\DTOs\\CreateProductDto.cs",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Application\\DTOs\\CreateProductDto.cs",
+              "RelativeToolTip": "..\\ProductManagement.Application\\DTOs\\CreateProductDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:27:38.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260314101412_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Infrastructure\\Migrations\\20260314101412_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagement.Infrastructure\\Migrations\\20260314101412_InitialCreate.cs",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Infrastructure\\Migrations\\20260314101412_InitialCreate.cs",
+              "RelativeToolTip": "..\\ProductManagement.Infrastructure\\Migrations\\20260314101412_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T10:14:13.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Domain\\Enitity\\Product.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagement.Domain\\Enitity\\Product.cs",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Domain\\Enitity\\Product.cs",
+              "RelativeToolTip": "..\\ProductManagement.Domain\\Enitity\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:51:18.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductManagement.Domain.csproj",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+              "RelativeToolTip": "..\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-14T09:50:33.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagement.Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\ProductManagement.Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:33:13.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T19:36:36.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Rewinding\\ProductManagement\\appsettings.json",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Rewinding\\ProductManagement\\appsettings.json",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Api\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -54,21 +289,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 18,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Rewinding\\ProductManagement\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "D:\\Rewinding\\ProductManagement\\appsettings.Development.json",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Api\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-13T19:16:41.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductManagement.Infrastructure",
+              "DocumentIndex": 17,
+              "Title": "ProductManagement.Infrastructure.csproj",
               "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
               "RelativeDocumentMoniker": "..\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
               "ToolTip": "D:\\Rewinding\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
@@ -80,8 +315,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductManagement.Application",
+              "DocumentIndex": 7,
+              "Title": "ProductManagement.Application.csproj",
               "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Application\\ProductManagement.Application.csproj",
               "RelativeDocumentMoniker": "..\\ProductManagement.Application\\ProductManagement.Application.csproj",
               "ToolTip": "D:\\Rewinding\\ProductManagement.Application\\ProductManagement.Application.csproj",
@@ -93,11 +328,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductManagement.Api",
-              "DocumentMoniker": "D:\\Rewinding\\ProductManagement\\ProductManagement.Api.csproj",
+              "DocumentIndex": 11,
+              "Title": "ProductManagement.Api.csproj",
+              "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Api\\ProductManagement.Api.csproj",
               "RelativeDocumentMoniker": "ProductManagement.Api.csproj",
-              "ToolTip": "D:\\Rewinding\\ProductManagement\\ProductManagement.Api.csproj",
+              "ToolTip": "D:\\Rewinding\\ProductManagement.Api\\ProductManagement.Api.csproj",
               "RelativeToolTip": "ProductManagement.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -106,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "..\\ProductManagement.Infrastructure\\Class1.cs",
@@ -119,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Application\\Class1.cs",
               "RelativeDocumentMoniker": "..\\ProductManagement.Application\\Class1.cs",
@@ -132,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Rewinding\\ProductManagement.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "..\\ProductManagement.Domain\\Class1.cs",
@@ -142,14 +377,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T18:01:44.381Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedHeight": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
